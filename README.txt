@@ -1,0 +1,1 @@
+A small python application that determines a lucky number from the users raw input. If the number 8 or 6 is in the input, then it is considered lucky. However, if both 8 and 6 is in the input then it is considered unlucky. The output will result in a true or false result.
